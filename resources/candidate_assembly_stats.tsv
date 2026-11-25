@@ -1,0 +1,141 @@
+assembly_accession	assembly_level	contig_n50	number_of_contigs	total_length	gc_percent	submitter
+GCA_000447085.2	Contig	95991	392	5141255	50.5	IGS
+GCA_001264195.1	Contig	458269	43	5426902	50	National Institute for Health and Welfare
+GCA_001283185.1	Scaffold	117016	254	5666911	50	SC
+GCA_001285165.1	Scaffold	86700	129	4928225	50.5	SC
+GCA_002284665.1	Contig	185473	91	4965831	51	USDA-ARS
+GCA_002284675.1	Contig	193770	78	4921291	51	USDA-ARS
+GCA_002284685.1	Contig	230026	130	5305541	51	USDA-ARS
+GCA_002885875.1	Scaffold	62317	300	5216119	51	Universite de Lome
+GCA_002928595.1	Scaffold	239270	92	4814342	51	Robert Koch Institute
+GCA_002928605.1	Scaffold	141219	103	5087679	50.5	Robert Koch Institute
+GCA_002928655.1	Scaffold	259635	74	4741222	51	Robert Koch Institute
+GCA_003186665.1	Scaffold	110371	155	5046933	50.5	Cardiff University
+GCA_010668985.1	Complete Genome	4769521	1	4769521	50.5	Quadram Institute Biosciences
+GCA_010669005.1	Complete Genome	4703889	1	4703889	50.5	Quadram Institute Biosciences
+GCA_011045235.1	Complete Genome	4866137	1	4866137	50.5	Quadram Institute Biosciences
+GCA_012078575.1	Contig	197085	80	5190908	50.5	FDA/CFSAN
+GCA_013112335.1	Complete Genome	4706754	1	4706754	50.5	Quadram Institute Biosciences
+GCA_013122565.1	Complete Genome	4821968	1	4821968	50.5	Quadram Institute Biosciences
+GCA_013187505.1	Scaffold	152677	154	4995238	50.5	Auburn University
+GCA_013187555.1	Scaffold	6241	3172	5601007	50.5	Auburn University
+GCA_013618575.1	Scaffold	157016	165	4842230	50.5	Auburn University
+GCA_013618585.1	Scaffold	156050	213	5013412	50.5	Auburn University
+GCA_018577025.1	Contig	196526	59	4799966	50.5	National Center for Biotechnology Information
+GCA_018577605.1	Contig	154456	88	4933089	50.5	National Center for Biotechnology Information
+GCA_018578045.1	Contig	115130	111	4870381	50.5	National Center for Biotechnology Information
+GCA_018578085.1	Contig	108317	149	5071331	50.5	National Center for Biotechnology Information
+GCA_018578405.1	Contig	176932	82	4920066	50.5	National Center for Biotechnology Information
+GCA_018578665.1	Contig	195213	64	4800659	50.5	National Center for Biotechnology Information
+GCA_018578685.1	Contig	170821	89	4775508	51	National Center for Biotechnology Information
+GCA_018578785.1	Contig	209288	56	4950635	50.5	National Center for Biotechnology Information
+GCA_021022845.1	Scaffold	140889	87	4674117	51	Helmholtz Centre for Environmental Research - UFZ GmbH
+GCA_021022855.1	Scaffold	140825	133	4805977	51	Helmholtz Centre for Environmental Research - UFZ GmbH
+GCA_021022895.1	Scaffold	124157	140	4706052	50.5	Helmholtz Centre for Environmental Research - UFZ GmbH
+GCA_021022945.1	Scaffold	194833	65	4554298	50.5	Helmholtz Centre for Environmental Research - UFZ GmbH
+GCA_021022975.1	Scaffold	175115	95	4651270	51	Helmholtz Centre for Environmental Research - UFZ GmbH
+GCA_021460845.1	Contig	4951394	10	5085001	51	Cardiff University
+GCA_021461045.1	Contig	4906874	11	5120425	50.5	Cardiff University
+GCA_022964815.1	Complete Genome	5026490	3	5270653	50.5	University Medical Center Goettingen (UMG)
+GCA_022964895.1	Complete Genome	4964248	5	5147806	51	University Medical Center Goettingen (UMG)
+GCA_025544715.1	Scaffold	66002	543	5228989	49	IHU Mediterranee Infection
+GCA_025544755.1	Scaffold	19766	534	4825835	50.5	IHU Mediterranee Infection
+GCA_025544795.1	Contig	1243206	48	4846351	51	IHU Mediterranee Infection
+GCA_025589395.1	Contig	140516	91	4649282	50.5	National Center for Biotechnology Information
+GCA_025589435.1	Contig	140241	74	4668808	50.5	National Center for Biotechnology Information
+GCA_025589755.1	Contig	158873	95	5271923	50.5	National Center for Biotechnology Information
+GCA_025590505.1	Contig	455232	55	5448883	50.5	National Center for Biotechnology Information
+GCA_025591115.1	Contig	140516	92	4641971	50.5	National Center for Biotechnology Information
+GCA_025592035.1	Contig	152952	82	4721819	51	National Center for Biotechnology Information
+GCA_025595325.1	Contig	298391	92	4925964	50.5	National Center for Biotechnology Information
+GCA_029848775.1	Contig	250152	106	4969473	50.5	University of Veterinary Sciences
+GCA_032365155.1	Complete Genome	5015243	4	5193054	50.5	Uppsala University
+GCA_032366635.1	Complete Genome	4853674	4	5057933	50.5	Uppsala University
+GCA_032367395.1	Complete Genome	4943650	4	5149615	50.5	Uppsala University
+GCA_032368225.1	Complete Genome	4951773	4	5198801	50.5	Uppsala University
+GCA_036881085.1	Contig	210463	140	5262547	50.5	Noguchi Memorial Institute for Medical Research
+GCA_036881315.1	Contig	222913	107	5002368	50.5	Noguchi Memorial Institute for Medical Research
+GCA_036881455.1	Contig	92207	134	4475643	50.5	Noguchi Memorial Institute for Medical Research
+GCA_036903595.1	Contig	150229	81	4528655	51	Federal Ministry of Agriculture & Rural Development
+GCA_037004715.1	Contig	259614	127	5102838	50.5	Saint-Petersburg Pasteur Institute
+GCA_037004745.1	Contig	226016	312	5393652	50.5	Saint-Petersburg Pasteur Institute
+GCA_037005005.1	Contig	108052	287	5299058	50.5	Saint-Petersburg Pasteur Institute
+GCA_037005225.1	Contig	339028	89	5010619	50.5	Saint-Petersburg Pasteur Institute
+GCA_040796625.1	Contig	4804724	2	4887898	50.5	Noguchi Memorial Institute for Medical Research
+GCA_042845955.1	Contig	136925	109	4740099	51	National Center for Biotechnology Information
+GCA_042846095.1	Contig	82432	180	4705011	50.5	National Center for Biotechnology Information
+GCA_042853565.1	Contig	42329	260	4932493	51	National Center for Biotechnology Information
+GCA_043330195.1	Contig	56918	191	4703568	51	National Center for Biotechnology Information
+GCA_043330215.1	Contig	87377	118	4483085	50.5	National Center for Biotechnology Information
+GCA_043330275.1	Contig	54479	199	4778781	51	National Center for Biotechnology Information
+GCA_043330315.1	Contig	58926	200	4739450	50.5	National Center for Biotechnology Information
+GCA_043570595.1	Contig	126298	120	4681902	50.5	National Center for Biotechnology Information
+GCA_045257315.1	Contig	262386	123	5271953	50.5	Noguchi Memorial Institute fir Medical Research
+GCA_046644765.2	Scaffold	105740	89	1223148	50.5	University of Benin
+GCA_046702085.2	Scaffold	163006	44	323833	50.5	University of Benin
+GCA_047290715.1	Contig	59456	189	4592841	51	University of Nigeria, Nsukka, Nigeria
+GCA_047290795.1	Contig	108947	167	4962794	50.5	University of Nigeria, Nsukka, Nigeria
+GCA_047290815.1	Contig	148175	178	5156543	50.5	University of Nigeria, Nsukka, Nigeria
+GCA_047290825.1	Contig	141029	129	4679490	51	University of Nigeria, Nsukka, Nigeria
+GCA_047637635.1	Scaffold	20704	39	232725	50.5	University of Benin
+GCA_049059785.1	Scaffold	127809	131	4974199	50.5	Institut Pasteur de Dakar
+GCA_049311835.1	Contig	267404	87	4801589	50.5	Macquarie University
+GCA_049379945.1	Contig	173158	111	5351129	50.5	Tokyo Medical and Dental University
+GCA_049380105.1	Contig	193424	117	5229641	50	Tokyo Medical and Dental University
+GCA_050051535.1	Scaffold	68865	790	5535188	51	University of Lome
+GCA_050051555.1	Scaffold	133422	129	4835011	50.5	University of Lome
+GCA_050051595.1	Scaffold	111732	138	4651082	50.5	University of Lome
+GCA_050053135.1	Scaffold	44474	571	5505766	50.5	University of Lome
+GCA_050053155.1	Scaffold	187544	144	5064983	51	University of Lome
+GCA_050053175.1	Scaffold	121596	106	4643608	50.5	University of Lome
+GCA_050053935.1	Scaffold	96828	142	4831419	50.5	University of Lome
+GCA_050053975.1	Scaffold	269232	67	4911625	50.5	University of Lome
+GCA_050054095.1	Scaffold	291168	69	4785764	51	University of Lome
+GCA_050054635.1	Scaffold	280078	64	4768741	50.5	University of Lome
+GCA_050366835.1	Contig	448589	42	4859306	50.5	US Food and Drug Administration
+GCA_051776285.1	Complete Genome	5111124	5	5332658	50.5	Enugu State University of Science and Technology (ESUT)
+GCA_051781085.1	Contig	125048	412	5185172	51	Federal University of Agriculture Abeokuta
+GCA_051781145.1	Contig	98843	996	4920881	51.5	Federal University of Agriculture Abeokuta
+GCA_051905855.1	Contig	336122	114	5198485	50.5	Federal University of Agriculture Abeokuta
+GCA_051905875.1	Contig	97554	146	4667552	51	Federal University of Agriculture Abeokuta
+GCA_051991925.1	Complete Genome	4889307	8	5179396	51	University of Maryland School of Medicine, Institute for Genome Sciences
+GCA_052077875.1	Contig	202146	72	4766781	50.5	Noguchi Memorial Institute for Medical Research
+GCA_052908335.1	Complete Genome	4860512	5	5172020	50.5	University of Maryland School of Medicine, Institute for Genome Sciences
+GCA_053515405.1	Contig	117008	146	4562576	50.5	Noguchi Memorial Institute for Medical Research
+GCA_053515435.1	Contig	291150	89	4778290	50.5	Noguchi Memorial Institute for Medical Research
+GCA_053515535.1	Contig	229205	84	4866129	50.5	Noguchi Memorial Institute for Medical Research
+GCA_053515575.1	Contig	209732	117	5016888	50.5	Noguchi Memorial Institute for Medical Research
+GCA_053515625.1	Contig	208611	103	4780148	51	Noguchi Memorial Institute for Medical Research
+GCA_053515685.1	Contig	74725	159	4567551	51	Noguchi Memorial Institute for Medical Research
+GCA_053515735.1	Contig	186021	263	5120501	50.5	Noguchi Memorial Institute for Medical Research
+GCA_053515755.1	Contig	648000	42	4694598	50.5	Noguchi Memorial Institute for Medical Research
+GCA_053557695.1	Contig	221005	98	4754075	51	SeqAfrica
+GCA_053557775.1	Contig	204936	148	4874634	51	SeqAfrica
+GCA_053557935.1	Contig	160290	96	4732451	51	SeqAfrica
+GCA_053561235.1	Contig	203022	105	4823698	51	SeqAfrica
+GCA_053564675.1	Contig	204936	142	4872020	51	SeqAfrica
+GCA_053567615.1	Contig	291529	157	5207880	50.5	SeqAfrica
+GCA_053567675.1	Contig	291529	151	5205766	50.5	SeqAfrica
+GCA_053567695.1	Contig	79177	203	4767606	51	SeqAfrica
+GCA_053786025.1	Contig	105779	194	5098266	51	Abdou Moumouni University
+GCA_053786135.1	Contig	135931	179	4998989	50.5	Abdou Moumouni University
+GCA_053848725.1	Scaffold	105442	191	4985304	50.5	Centre Hospitalier National et Universitaire de Fann
+GCA_055233855.1	Contig	166996	212	5348886	50	Nnamdi Azikiwe University/Uzobiogene Genomics
+GCA_056828425.1	Chromosome	8516	1565	5181637	51	Federal University of Technology Owerri
+GCA_060225925.1	Contig	18987	8	111629	51	Igbinedion University
+GCA_060472995.1	Complete Genome	4698336	1	4698336	51	Institut de l'Environnement et de Recherches Agricoles du Burkina Faso (INERA)
+GCA_060473115.1	Complete Genome	4862359	1	4862359	50.5	Institut de l'Environnement et de Recherches Agricoles du Burkina Faso (INERA)
+GCA_060473235.1	Complete Genome	5169818	1	5169818	50.5	Institut de l'Environnement et de Recherches Agricoles du Burkina Faso (INERA)
+GCA_060473255.1	Complete Genome	4873199	1	4873199	51	Institut de l'Environnement et de Recherches Agricoles du Burkina Faso (INERA)
+GCA_061051075.1	Contig	183208	74	4663480	51	National Center for Biotechnology Information
+GCA_061543785.1	Contig	61658	673	5503412	50.5	Centre National de la Recherche Scientifique et Technologique
+GCA_061543885.1	Contig	151885	100	5002431	51	Centre National de la Recherche Scientifique et Technologique
+GCA_061543915.1	Contig	101280	115	4757188	51	Centre National de la Recherche Scientifique et Technologique
+GCA_061543965.1	Contig	101574	131	4771270	50.5	Centre National de la Recherche Scientifique et Technologique
+GCA_900157875.2	Complete Genome	121486	1	121486	45.5	RJ
+GCA_946299405.1	Contig	127128	337	4883230	50.5	UMR 1137 IAME
+GCA_963596845.1	Contig	5391	447	2137145	61	Institute of Clinical Molecular Biology, University of Kiel, Germany
+GCA_963633935.1	Scaffold	13296	231	2016141	58.5	Institute of Clinical Molecular Biology, University of Kiel, Germany
+GCA_963639085.1	Scaffold	10794	270	2008697	59.5	Institute of Clinical Molecular Biology, University of Kiel, Germany
+GCA_966515205.1	Contig	145301	175	4671173	50.5	Technical University of Denmark
+GCA_966519245.1	Contig	97648	1719	5351932	51.5	Technical University of Denmark
