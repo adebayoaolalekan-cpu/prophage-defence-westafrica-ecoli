@@ -1,0 +1,127 @@
+{
+  "seed": 20261125,
+  "stage": 1,
+  "block_a": {
+    "n": 48,
+    "cells": [
+      {
+        "cell": "PRJNA293225-A|Human",
+        "available": 27,
+        "requested": 12,
+        "drawn": 12,
+        "shortfall": 0
+      },
+      {
+        "cell": "PRJNA293225-A|Poultry",
+        "available": 45,
+        "requested": 12,
+        "drawn": 12,
+        "shortfall": 0
+      },
+      {
+        "cell": "PRJNA1019343|Human",
+        "available": 16,
+        "requested": 12,
+        "drawn": 12,
+        "shortfall": 0
+      },
+      {
+        "cell": "PRJNA1019343|Poultry",
+        "available": 21,
+        "requested": 12,
+        "drawn": 12,
+        "shortfall": 0
+      }
+    ],
+    "source_counts": {
+      "Human": 24,
+      "Poultry": 24
+    },
+    "study_counts": {
+      "PRJNA293225-A": 24,
+      "PRJNA1019343": 24
+    },
+    "country_counts": {
+      "Nigeria": 24,
+      "Ghana": 24
+    }
+  },
+  "block_b_candidate_frame": {
+    "n": 144,
+    "cells": [
+      {
+        "cell": "Human",
+        "available": 1999,
+        "requested": 45,
+        "drawn": 45,
+        "shortfall": 0,
+        "final_target": 15
+      },
+      {
+        "cell": "Environmental",
+        "available": 274,
+        "requested": 36,
+        "drawn": 36,
+        "shortfall": 0,
+        "final_target": 12
+      },
+      {
+        "cell": "Poultry",
+        "available": 209,
+        "requested": 27,
+        "drawn": 27,
+        "shortfall": 0,
+        "final_target": 9
+      },
+      {
+        "cell": "Other animal",
+        "available": 175,
+        "requested": 18,
+        "drawn": 18,
+        "shortfall": 0,
+        "final_target": 6
+      },
+      {
+        "cell": "Food",
+        "available": 91,
+        "requested": 18,
+        "drawn": 18,
+        "shortfall": 0,
+        "final_target": 6
+      }
+    ],
+    "source_counts": {
+      "Human": 45,
+      "Environmental": 36,
+      "Poultry": 27,
+      "Other animal": 18,
+      "Food": 18
+    },
+    "country_counts": {
+      "Liberia": 4,
+      "Cote d'Ivoire": 4,
+      "Guinea-Bissau": 5,
+      "Benin": 4,
+      "Guinea": 7,
+      "Burkina Faso": 10,
+      "Senegal": 6,
+      "Togo": 11,
+      "Niger": 5,
+      "Ghana": 33,
+      "Mali": 3,
+      "Gambia": 16,
+      "Nigeria": 36
+    },
+    "distinct_bioprojects": 54
+  },
+  "thresholds": {
+    "broad": {
+      "min_n50": 50000,
+      "max_contigs": 300
+    },
+    "high_contiguity": {
+      "min_n50": 100000,
+      "max_contigs": 200
+    }
+  }
+}

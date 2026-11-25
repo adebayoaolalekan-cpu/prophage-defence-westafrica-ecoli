@@ -1,0 +1,117 @@
+# Pilot workflow configuration.
+#
+# Prophage Burden, Prophage-Associated Virulence Determinants and Anti-Phage
+# Defence Systems in West African Escherichia coli.
+#
+# Every parameter here is the one the protocol fixes. Changing one is a protocol
+# amendment, not a configuration change, and belongs in the amendment log.
+
+samples: "config/samples.tsv"
+manifest: "config/pilot_manifest.tsv"
+outdir: "results"
+
+# --- database locations -----------------------------------------------------
+# Absolute paths. None of these are downloaded by the workflow, because the
+# database release has to be pinned and recorded rather than resolved at run
+# time.
+databases:
+  genomad: "/data/db/genomad_db"          # genomad download-database
+  checkv: "/data/db/checkv-db-v1.5"       # checkv download_database
+  checkm2: "/data/db/CheckM2_database/uniref100.KO.1.dmnd"
+  bakta: "/data/db/bakta/db-light"
+  crisprcasfinder_so: "/opt/CRISPRCasFinder/sel392v2.so"
+
+# Recorded in the provenance table. Fill these in from the installed versions
+# before the pilot is run, not after.
+versions:
+  genomad: "1.11.0"
+  checkv: "1.0.3"
+  checkm2: "1.0.2"
+  defensefinder: "2.0.0"
+  defensefinder_models: "2.0.0"
+  crisprcasfinder: "4.3.2"
+  bakta: "1.10.4"
+  poppunk: "2.7.5"
+  seqkit: "2.9.0"
+  independent_predictor: "PIDE 1.0.0"
+
+# --- prophage identification ------------------------------------------------
+genomad:
+  # Protocol Step 5: the default classification and scoring configuration is
+  # retained unless the pilot justifies adjustment. Do not set a score cutoff
+  # here without recording the justification.
+  min_score: null
+  splits: 8
+  extra: "--cleanup --enable-score-calibration"
+
+# --- independent predictor --------------------------------------------------
+# Protocol Step 6. PIDE is the primary choice. Its practicality at collection
+# scale is one of the things the pilot exists to establish, and PhiSpy is the
+# declared substitute if PIDE proves impractical.
+#
+# PIDE's command line is NOT hard-coded below. Fill pide.command from the
+# installed release's own documentation and record the string in the provenance
+# table. The placeholders {input}, {outdir} and {threads} are substituted.
+# Leaving the default in place and running the workflow will fail loudly rather
+# than running a guessed command.
+independent_predictor: "pide"            # pide | phispy
+pide:
+  command: "PLEASE_SET_pide.command_IN_config.yaml"
+  gpu: true
+phispy:
+  # PhiSpy needs a GenBank file, which the Bakta rule produces.
+  extra: "--phage_genes 2 --number 5 --expand_slope"
+
+# --- CheckV boundary refinement ---------------------------------------------
+# Protocol Table 10. The primary extraction carries a 10 kb flank on each side
+# of the geNomad coordinates; the sensitivity extraction carries 5 kb.
+checkv:
+  flank_primary: 10000
+  flank_sensitivity: 5000
+  # Two predictions whose flanked windows overlap are processed as one shared
+  # region, per Step 7.
+  merge_overlapping_windows: true
+
+# --- concordance ------------------------------------------------------------
+# Protocol Step 6: high boundary concordance is reciprocal sequence overlap of
+# at least 80% together with a coordinate difference no greater than the
+# stated tolerance.
+concordance:
+  min_reciprocal_overlap: 0.80
+  max_coordinate_difference: 2000
+
+# --- quality bands ----------------------------------------------------------
+# Protocol Table 9.
+quality:
+  broad:
+    min_contig_n50: 50000
+    max_contigs: 300
+    min_completeness: 95.0
+    max_contamination: 5.0
+  high_contiguity:
+    min_contig_n50: 100000
+    max_contigs: 200
+    min_completeness: 95.0
+    max_contamination: 5.0
+
+# --- vOTU clustering --------------------------------------------------------
+# MIUViG thresholds, Step 8.
+votu:
+  min_ani: 95
+  min_coverage: 85
+
+# --- lineage partition ------------------------------------------------------
+poppunk:
+  model: "bgmm"
+  max_k: 4
+
+# --- resources --------------------------------------------------------------
+threads:
+  genomad: 16
+  pide: 8
+  checkv: 8
+  defensefinder: 8
+  crisprcasfinder: 4
+  bakta: 8
+  checkm2: 16
+  poppunk: 16

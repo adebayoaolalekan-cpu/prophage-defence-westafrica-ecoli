@@ -1,0 +1,97 @@
+assembly_accession	block	stratum	originating_study	ecological_category	country	collection_date	isolation_source	assembly_level	contig_n50	number_of_contigs	total_length	quality_band	umbrella_project_flag	backfilled
+GCA_015285905	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-03-02	blood	Contig	273602	89	5491490	high_contiguity		NO
+GCA_012453525	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2018-12-04	stool	Contig	113234	170	5394603	high_contiguity		NO
+GCA_012616625	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-02-04	stool	Contig	142788	87	4866920	high_contiguity		NO
+GCA_012616885	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-03-14	stool	Contig	113753	137	4774132	high_contiguity		NO
+GCA_012451995	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-01-22	stool	Contig	139168	84	4738533	high_contiguity		NO
+GCA_012402635	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2018-12-04	stool	Contig	272929	63	4842296	high_contiguity		NO
+GCA_012618225	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-02-20	stool	Contig	145926	162	5154662	high_contiguity		NO
+GCA_012616675	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-02-03	stool	Contig	107317	128	4906590	high_contiguity		NO
+GCA_012451985	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-01-22	stool	Contig	119835	111	4769335	high_contiguity		NO
+GCA_012618565	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-02-18	stool	Contig	127821	189	5566365	high_contiguity		NO
+GCA_012432655	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-01-22	stool	Contig	105362	131	4826065	high_contiguity		NO
+GCA_012616585	A_inference	PRJNA293225-A|Human|high_contiguity	PRJNA293225-A	Human	Nigeria	2019-02-28	stool	Contig	138299	102	4762796	high_contiguity		NO
+GCA_012623425	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-02-18	poultry liver	Contig	185393	82	4675728	high_contiguity		NO
+GCA_012401845	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2018-12-03	poultry litter	Contig	127462	87	4719780	high_contiguity		NO
+GCA_012623025	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-02-04	feces poultry	Contig	193196	90	4850046	high_contiguity		NO
+GCA_012454085	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-01-04	poultry liver	Contig	186952	88	5031913	high_contiguity		NO
+GCA_012402385	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2018-12-04	poultry litter	Contig	247167	62	4705403	high_contiguity		NO
+GCA_012392015	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2018-12-03	feces poultry	Contig	126933	91	4672811	high_contiguity		NO
+GCA_012618525	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-02-20	poultry litter	Contig	148077	105	4938196	high_contiguity		NO
+GCA_012623345	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-02-18	feces poultry	Contig	207486	88	5005251	high_contiguity		NO
+GCA_012617345	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-03-05	poultry litter	Contig	119726	115	4647754	high_contiguity		NO
+GCA_012623085	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-02-04	feces poultry	Contig	133060	153	5132035	high_contiguity		NO
+GCA_012402665	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2018-12-04	poultry litter	Contig	192448	79	4926053	high_contiguity		NO
+GCA_012616565	A_inference	PRJNA293225-A|Poultry|high_contiguity	PRJNA293225-A	Poultry	Nigeria	2019-02-04	feces poultry	Contig	207265	132	5178505	high_contiguity		NO
+GCA_032142855	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Caecal swabs	Contig	209597	116	4988956	high_contiguity		NO
+GCA_032143515	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	100151	150	4825710	high_contiguity		NO
+GCA_032143735	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	198217	109	5021538	high_contiguity		NO
+GCA_032143475	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	160409	134	5038842	high_contiguity		NO
+GCA_032143395	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	166581	135	5041070	high_contiguity		NO
+GCA_032143555	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	106217	175	5091652	high_contiguity		NO
+GCA_032143595	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	224697	117	5022639	high_contiguity		NO
+GCA_032143535	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	180034	99	4875172	high_contiguity		NO
+GCA_032143755	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	176451	110	5038881	high_contiguity		NO
+GCA_032143275	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	177288	71	4693972	high_contiguity		NO
+GCA_032143415	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	149764	99	4576358	high_contiguity		NO
+GCA_032143795	A_inference	PRJNA1019343|Human|high_contiguity	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	196560	167	5336375	high_contiguity		NO
+GCA_032143195	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	139227	138	4621730	high_contiguity		NO
+GCA_032143135	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	125690	145	4645302	high_contiguity		NO
+GCA_032143635	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2022	Caecal swabs	Contig	154496	135	4788463	high_contiguity		NO
+GCA_032142955	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	283619	121	5013474	high_contiguity		NO
+GCA_032143715	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	162040	111	4733434	high_contiguity		NO
+GCA_032142995	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	193197	97	4875680	high_contiguity		NO
+GCA_032142975	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	147302	105	4721360	high_contiguity		NO
+GCA_032143075	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	103127	122	4595486	high_contiguity		NO
+GCA_032143115	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	110250	135	4555317	high_contiguity		NO
+GCA_032143015	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2022	Caecal swabs	Contig	254338	99	4799005	high_contiguity		NO
+GCA_032143815	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	196323	92	4877510	high_contiguity		NO
+GCA_032143615	A_inference	PRJNA1019343|Poultry|high_contiguity	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	284039	91	4919530	high_contiguity		NO
+GCA_029848775	B_catalogue	Human|Cote d'Ivoire|high_contiguity	PRJNA937289	Human	Cote d'Ivoire	2012	infection	Contig	250152	106	4969473	high_contiguity		NO
+GCA_050054095	B_catalogue	Human|Togo|high_contiguity	PRJNA1254764	Human	Togo	2022-09	feces	Scaffold	291168	69	4785764	high_contiguity		NO
+GCA_051991925	B_catalogue	Human|Gambia|high_contiguity	PRJNA1254407	Human	Gambia	2009	stool	Complete Genome	4889307	8	5179396	high_contiguity		NO
+GCA_037005225	B_catalogue	Human|Guinea|high_contiguity	PRJNA937037	Human	Guinea	2020-12-22	feces	Contig	339028	89	5010619	high_contiguity		NO
+GCA_900157875	B_catalogue	Human|Mali|high_contiguity	PRJEB18579	Human	Mali	2011	Faeces	Complete Genome	121486	1	121486	high_contiguity		NO
+GCA_049059785	B_catalogue	Human|Senegal|high_contiguity	PRJNA1184479	Human	Senegal	2020-12-08	urine	Scaffold	127809	131	4974199	high_contiguity		NO
+GCA_053557695	B_catalogue	Human|Benin|high_contiguity	PRJNA1279628	Human	Benin	2021	urine	Contig	221005	98	4754075	high_contiguity		NO
+GCA_052077875	B_catalogue	Human|Ghana|high_contiguity	PRJNA1293373	Human	Ghana	2024		Contig	202146	72	4766781	high_contiguity		NO
+GCA_053567695	B_catalogue	Human|Benin|broad_only	PRJNA1279628	Human	Benin	2022	urine	Contig	79177	203	4767606	broad_only		NO
+GCA_001283185	B_catalogue	Human|Gambia|broad_only	PRJEB2226	Human	Gambia	2008	faeces	Scaffold	117016	254	5666911	broad_only		NO
+GCA_037005005	B_catalogue	Human|Guinea|broad_only	PRJNA937037	Human	Guinea	2022-11-07	feces	Contig	108052	287	5299058	broad_only		NO
+GCA_001285165	B_catalogue	Human|Mali|broad_only	PRJEB2226	Human	Mali	2009	faeces	Scaffold	86700	129	4928225	broad_only		NO
+GCA_037004745	B_catalogue	Human|Guinea|below_broad	PRJNA937037	Human	Guinea	2022-11-07	feces	Contig	226016	312	5393652	below_broad		NO
+GCA_946299405	B_catalogue	Human|Senegal|below_broad	PRJEB45090	Human	Senegal		Reference	Contig	127128	337	4883230	below_broad		NO
+GCA_056828425	B_catalogue	Human|Nigeria|below_broad	PRJNA1173402	Human	Nigeria	2023-06-11	clinical (stool)	Chromosome	8516	1565	5181637	below_broad		NO
+GCA_053786025	B_catalogue	Environmental|Niger|high_contiguity	PRJNA1369844	Environmental	Niger	2025-01-06	Hospital Wastewater	Contig	105779	194	5098266	high_contiguity		NO
+GCA_061543965	B_catalogue	Environmental|Burkina Faso|high_contiguity	PRJNA1454954	Environmental	Burkina Faso	2023		Contig	101574	131	4771270	high_contiguity		NO
+GCA_050053975	B_catalogue	Environmental|Togo|high_contiguity	PRJNA1254764	Environmental	Togo	2022-09	Irrigation water for drinking and fishing	Scaffold	269232	67	4911625	high_contiguity		NO
+GCA_036881315	B_catalogue	Environmental|Ghana|high_contiguity	PRJNA1077263	Environmental	Ghana	2023	soil	Contig	222913	107	5002368	high_contiguity		NO
+GCA_051905855	B_catalogue	Environmental|Nigeria|high_contiguity	PRJNA1295602	Environmental	Nigeria	2023-04-15	Well Water	Contig	336122	114	5198485	high_contiguity		NO
+GCA_053786135	B_catalogue	Environmental|Niger|high_contiguity	PRJNA1369956	Environmental	Niger	2025-02-08	Hospital Wastewater	Contig	135931	179	4998989	high_contiguity		NO
+GCA_061543915	B_catalogue	Environmental|Burkina Faso|high_contiguity	PRJNA1454954	Environmental	Burkina Faso	2023		Contig	101280	115	4757188	high_contiguity		NO
+GCA_042846095	B_catalogue	Environmental|Nigeria|broad_only	PRJNA514245	Environmental	Nigeria	2020-10-08	Environment	Contig	82432	180	4705011	broad_only	YES	NO
+GCA_036881455	B_catalogue	Environmental|Ghana|broad_only	PRJNA1077263	Environmental	Ghana	2023	soil	Contig	92207	134	4475643	broad_only		NO
+GCA_053515735	B_catalogue	Environmental|Ghana|broad_only	PRJNA1338482	Environmental	Ghana	2025	Environment	Contig	186021	263	5120501	broad_only		NO
+GCA_061543785	B_catalogue	Environmental|Burkina Faso|below_broad	PRJNA1454954	Environmental	Burkina Faso	2021		Contig	61658	673	5503412	below_broad		NO
+GCA_050053135	B_catalogue	Environmental|Togo|below_broad	PRJNA1254764	Environmental	Togo	2022-09	Raw drilling water	Scaffold	44474	571	5505766	below_broad		NO
+GCA_047290825	B_catalogue	Poultry|Ghana|high_contiguity	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	Contig	141029	129	4679490	high_contiguity		NO
+GCA_051776285	B_catalogue	Poultry|Nigeria|high_contiguity	PRJNA1293944	Poultry	Nigeria	2024	Poultry farm	Complete Genome	5111124	5	5332658	high_contiguity		NO
+GCA_013112335	B_catalogue	Poultry|Gambia|high_contiguity	PRJNA616250	Poultry	Gambia	2016	Caecum	Complete Genome	4706754	1	4706754	high_contiguity		NO
+GCA_047290815	B_catalogue	Poultry|Ghana|high_contiguity	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	Contig	148175	178	5156543	high_contiguity		NO
+GCA_013187505	B_catalogue	Poultry|Nigeria|high_contiguity	PRJNA631965	Poultry	Nigeria	2019	backyard farm #12, cloacal swab # 23	Scaffold	152677	154	4995238	high_contiguity		NO
+GCA_047290715	B_catalogue	Poultry|Ghana|broad_only	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	Contig	59456	189	4592841	broad_only		NO
+GCA_051905875	B_catalogue	Poultry|Nigeria|broad_only	PRJNA1295602	Poultry	Nigeria	2023-04-26	Rectal swab	Contig	97554	146	4667552	broad_only		NO
+GCA_013618585	B_catalogue	Poultry|Nigeria|broad_only	PRJNA631965	Poultry	Nigeria	2019	backyard farm #30, cloacal swab # 40	Scaffold	156050	213	5013412	broad_only		NO
+GCA_051781085	B_catalogue	Poultry|Nigeria|below_broad	PRJNA1295602	Poultry	Nigeria	2023-05-16	Rectal swab	Contig	125048	412	5185172	below_broad		NO
+GCA_001264195	B_catalogue	Other animal|Burkina Faso|high_contiguity	PRJNA269579	Other animal	Burkina Faso	2008-10-30	Intestine sample	Contig	458269	43	5426902	high_contiguity		NO
+GCA_050366835	B_catalogue	Other animal|Nigeria|high_contiguity	PRJNA293225	Other animal	Nigeria	2021-08-06	spleen	Contig	448589	42	4859306	high_contiguity		NO
+GCA_025544795	B_catalogue	Other animal|Senegal|high_contiguity	PRJNA738374	Other animal	Senegal	2019-08	fecal sample	Contig	1243206	48	4846351	high_contiguity		NO
+GCA_049380105	B_catalogue	Other animal|Ghana|high_contiguity	PRJNA473419	Other animal	Ghana	2023-09-08	goat	Contig	193424	117	5229641	high_contiguity		NO
+GCA_000447085	B_catalogue	Other animal|Guinea-Bissau|below_broad	PRJNA79329	Other animal	Guinea-Bissau		stool sample	Contig	95991	392	5141255	below_broad		NO
+GCA_060225925	B_catalogue	Other animal|Nigeria|below_broad	PRJNA1482785	Other animal	Nigeria	2025-09	Culture-enriched metagenome consisting of Gram-negative bacteria and staphylococci isolated from skin and gut of pigs	Contig	18987	8	111629	below_broad		YES
+GCA_012078575	B_catalogue	Food|Burkina Faso|high_contiguity	PRJNA230969	Food	Burkina Faso	2008-12-16	beef meat	Contig	197085	80	5190908	high_contiguity		NO
+GCA_050054635	B_catalogue	Food|Togo|high_contiguity	PRJNA1254764	Food	Togo	2022-09	Nicoise salad	Scaffold	280078	64	4768741	high_contiguity		NO
+GCA_966515205	B_catalogue	Food|Nigeria|high_contiguity	PRJEB73590	Food	Nigeria	2021-12-07	Meat	Contig	145301	175	4671173	high_contiguity		NO
+GCA_036881085	B_catalogue	Food|Ghana|high_contiguity	PRJNA1077263	Food	Ghana	2023	beef	Contig	210463	140	5262547	high_contiguity		NO
+GCA_043330215	B_catalogue	Food|Nigeria|broad_only	PRJNA514245	Food	Nigeria	2023-06-08	Cat fish (Clarias gariepinus)	Contig	87377	118	4483085	broad_only	YES	NO
+GCA_966519245	B_catalogue	Food|Nigeria|below_broad	PRJEB73590	Food	Nigeria	2021-01-01	Meat	Contig	97648	1719	5351932	below_broad		NO

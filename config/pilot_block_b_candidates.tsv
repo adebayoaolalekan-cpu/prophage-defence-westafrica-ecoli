@@ -1,0 +1,145 @@
+assembly_accession	block	originating_study	ecological_category	country	collection_date	isolation_source	umbrella_project_flag
+GCA_980407635	B_catalogue_candidate	PRJEB106966	Human	Liberia	missing	Worm-infected human stool	
+GCA_029848775	B_catalogue_candidate	PRJNA937289	Human	Cote d'Ivoire	2012	infection	
+GCA_032365155	B_catalogue_candidate	PRJNA972597	Human	Guinea-Bissau	1997-05-05	stool	
+GCA_053567695	B_catalogue_candidate	PRJNA1279628	Human	Benin	2022	urine	
+GCA_037005005	B_catalogue_candidate	PRJNA937037	Human	Guinea	2022-11-07	feces	
+GCA_060472995	B_catalogue_candidate	PRJNA1307828	Human	Burkina Faso	2018-09-28	urine	
+GCA_946299405	B_catalogue_candidate	PRJEB45090	Human	Senegal		Reference	
+GCA_002885875	B_catalogue_candidate	PRJNA398227	Human	Togo	2016-05-07	urine	
+GCA_003186665	B_catalogue_candidate	PRJNA473262	Human	Niger	2017-07-15		
+GCA_052077875	B_catalogue_candidate	PRJNA1293373	Human	Ghana	2024		
+GCA_900157875	B_catalogue_candidate	PRJEB18579	Human	Mali	2011	Faeces	
+GCA_001283185	B_catalogue_candidate	PRJEB2226	Human	Gambia	2008	faeces	
+GCA_056828425	B_catalogue_candidate	PRJNA1173402	Human	Nigeria	2023-06-11	clinical (stool)	
+GCA_980410785	B_catalogue_candidate	PRJEB106966	Human	Liberia	missing	Worm-infected human stool	
+GCA_963639085	B_catalogue_candidate	PRJEB68160	Human	Cote d'Ivoire	2011	Feces of Homo sapiens (CIV)	
+GCA_032366635	B_catalogue_candidate	PRJNA972609	Human	Guinea-Bissau	1996-07-24	stool	
+GCA_053567675	B_catalogue_candidate	PRJNA1279628	Human	Benin	2022	urine	
+GCA_037004745	B_catalogue_candidate	PRJNA937037	Human	Guinea	2022-11-07	feces	
+GCA_060473235	B_catalogue_candidate	PRJNA1307828	Human	Burkina Faso	2019-01-11	urine	
+GCA_049059785	B_catalogue_candidate	PRJNA1184479	Human	Senegal	2020-12-08	urine	
+GCA_050053935	B_catalogue_candidate	PRJNA1254764	Human	Togo	2022-09	feces	
+GCA_021460845	B_catalogue_candidate	PRJNA769286	Human	Niger	2020-10-30		
+GCA_022964895	B_catalogue_candidate	PRJNA822931	Human	Ghana	2016	Chronic wound	
+GCA_049311835	B_catalogue_candidate	PRJNA1243169	Human	Mali	missing		
+GCA_051991925	B_catalogue_candidate	PRJNA1254407	Human	Gambia	2009	stool	
+GCA_047637635	B_catalogue_candidate	PRJNA1218019	Human	Nigeria	2024-03	Urine from a human patient	
+GCA_980409345	B_catalogue_candidate	PRJEB106966	Human	Liberia	missing	Worm-infected human stool	
+GCA_963596845	B_catalogue_candidate	PRJEB68160	Human	Cote d'Ivoire	2001/2014	Feces of Pan troglodytes verus	
+GCA_032368225	B_catalogue_candidate	PRJNA972611	Human	Guinea-Bissau	1997-06-12	stool	
+GCA_053567615	B_catalogue_candidate	PRJNA1279628	Human	Benin	2022	urine	
+GCA_037005225	B_catalogue_candidate	PRJNA937037	Human	Guinea	2020-12-22	feces	
+GCA_060473115	B_catalogue_candidate	PRJNA1307828	Human	Burkina Faso	2018-11-30	urine	
+GCA_053848725	B_catalogue_candidate	PRJNA1248572	Human	Senegal	2023	urine	
+GCA_050054095	B_catalogue_candidate	PRJNA1254764	Human	Togo	2022-09	feces	
+GCA_021461045	B_catalogue_candidate	PRJNA769286	Human	Niger	2020-06-08		
+GCA_022964815	B_catalogue_candidate	PRJNA822931	Human	Ghana	2016	Chronic wound	
+GCA_001285165	B_catalogue_candidate	PRJEB2226	Human	Mali	2009	faeces	
+GCA_052908335	B_catalogue_candidate	PRJNA1322554	Human	Gambia	2008	stool	
+GCA_055233855	B_catalogue_candidate	PRJNA1420490	Human	Nigeria	2025-12-15	urine	
+GCA_980408575	B_catalogue_candidate	PRJEB106966	Human	Liberia	missing	Worm-infected human stool	
+GCA_963633935	B_catalogue_candidate	PRJEB68160	Human	Cote d'Ivoire	2011	Feces of Homo sapiens (CIV)	
+GCA_032367395	B_catalogue_candidate	PRJNA972614	Human	Guinea-Bissau	1997-01-21	stool	
+GCA_053557695	B_catalogue_candidate	PRJNA1279628	Human	Benin	2021	urine	
+GCA_037004715	B_catalogue_candidate	PRJNA937037	Human	Guinea	2020-12-28	feces	
+GCA_060473255	B_catalogue_candidate	PRJNA1307828	Human	Burkina Faso	2019-02-12	urine	
+GCA_053786025	B_catalogue_candidate	PRJNA1369844	Environmental	Niger	2025-01-06	Hospital Wastewater	
+GCA_061543785	B_catalogue_candidate	PRJNA1454954	Environmental	Burkina Faso	2021		
+GCA_050053155	B_catalogue_candidate	PRJNA1254764	Environmental	Togo	2022-09	Drilling water	
+GCA_036903595	B_catalogue_candidate	PRJNA797451	Environmental	Nigeria	2020-10-08	waste water	
+GCA_040796625	B_catalogue_candidate	PRJNA1134935	Environmental	Ghana	2022-12-05	Water reservoir	
+GCA_053786135	B_catalogue_candidate	PRJNA1369956	Environmental	Niger	2025-02-08	Hospital Wastewater	
+GCA_061543915	B_catalogue_candidate	PRJNA1454954	Environmental	Burkina Faso	2023		
+GCA_050053135	B_catalogue_candidate	PRJNA1254764	Environmental	Togo	2022-09	Raw drilling water	
+GCA_046702085	B_catalogue_candidate	PRJNA1151735	Environmental	Nigeria	2024-04	Wastewater (Sewage)	
+GCA_045257315	B_catalogue_candidate	PRJNA1185792	Environmental	Ghana	2024-02-02	Market environment	
+GCA_061543885	B_catalogue_candidate	PRJNA1454954	Environmental	Burkina Faso	2023		
+GCA_050053975	B_catalogue_candidate	PRJNA1254764	Environmental	Togo	2022-09	Irrigation water for drinking and fishing	
+GCA_046644765	B_catalogue_candidate	PRJNA1151735	Environmental	Nigeria	2024-03	healthcare wastewater (sewage)	
+GCA_053557935	B_catalogue_candidate	PRJNA1279628	Environmental	Ghana	2023	Irrigation Water	
+GCA_061543965	B_catalogue_candidate	PRJNA1454954	Environmental	Burkina Faso	2023		
+GCA_050053175	B_catalogue_candidate	PRJNA1254764	Environmental	Togo	2022-09	drinking water	
+GCA_051781145	B_catalogue_candidate	PRJNA1295602	Environmental	Nigeria	2023-04-26	Tap Water	
+GCA_036881455	B_catalogue_candidate	PRJNA1077263	Environmental	Ghana	2023	soil	
+GCA_051905855	B_catalogue_candidate	PRJNA1295602	Environmental	Nigeria	2023-04-15	Well Water	
+GCA_036881315	B_catalogue_candidate	PRJNA1077263	Environmental	Ghana	2023	soil	
+GCA_021022855	B_catalogue_candidate	PRJNA670054	Environmental	Nigeria	2017-10-31	shoreline saltwater	
+GCA_053515435	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_021022945	B_catalogue_candidate	PRJNA670054	Environmental	Nigeria	2017-11-05	dry sand	
+GCA_053515685	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_021022845	B_catalogue_candidate	PRJNA670054	Environmental	Nigeria	2017-10-31	dry sand	
+GCA_053515755	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_021022975	B_catalogue_candidate	PRJNA670054	Environmental	Nigeria	2017-11-05	shoreline saltwater	
+GCA_053515535	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_021022895	B_catalogue_candidate	PRJNA670054	Environmental	Nigeria	2017-10-31	dry sand	
+GCA_053515625	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_042846095	B_catalogue_candidate	PRJNA514245	Environmental	Nigeria	2020-10-08	Environment	YES
+GCA_053515405	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_042845955	B_catalogue_candidate	PRJNA514245	Environmental	Nigeria	2020-10-08	Environment	YES
+GCA_053515735	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_042853565	B_catalogue_candidate	PRJNA514245	Environmental	Nigeria	2020-10-08	Environment	YES
+GCA_053515575	B_catalogue_candidate	PRJNA1338482	Environmental	Ghana	2025	Environment	
+GCA_025589395	B_catalogue_candidate	PRJNA514245	Poultry	Ghana	2016	chicken	YES
+GCA_013122565	B_catalogue_candidate	PRJNA616250	Poultry	Gambia	2016	Caecum	
+GCA_051776285	B_catalogue_candidate	PRJNA1293944	Poultry	Nigeria	2024	Poultry farm	
+GCA_025589755	B_catalogue_candidate	PRJNA514245	Poultry	Ghana	2016	chicken	YES
+GCA_013112335	B_catalogue_candidate	PRJNA616250	Poultry	Gambia	2016	Caecum	
+GCA_051905875	B_catalogue_candidate	PRJNA1295602	Poultry	Nigeria	2023-04-26	Rectal swab	
+GCA_025591115	B_catalogue_candidate	PRJNA514245	Poultry	Ghana	2016	chicken	YES
+GCA_018577025	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_051781085	B_catalogue_candidate	PRJNA1295602	Poultry	Nigeria	2023-05-16	Rectal swab	
+GCA_047290815	B_catalogue_candidate	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	
+GCA_018578405	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_002284685	B_catalogue_candidate	PRJNA389301	Poultry	Nigeria	2013	chicken	
+GCA_047290795	B_catalogue_candidate	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	
+GCA_018578045	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_002284675	B_catalogue_candidate	PRJNA389301	Poultry	Nigeria	2013	chicken	
+GCA_047290715	B_catalogue_candidate	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	
+GCA_018578685	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_002284665	B_catalogue_candidate	PRJNA389301	Poultry	Nigeria	2013	chicken	
+GCA_047290825	B_catalogue_candidate	PRJNA1211823	Poultry	Ghana	2022-06/2022-07	Live bird market	
+GCA_018578085	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_013618575	B_catalogue_candidate	PRJNA631965	Poultry	Nigeria	2019	backyard farm #29, liver # 39	
+GCA_018578785	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_013187505	B_catalogue_candidate	PRJNA631965	Poultry	Nigeria	2019	backyard farm #12, cloacal swab # 23	
+GCA_018577605	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_013187555	B_catalogue_candidate	PRJNA631965	Poultry	Nigeria	2019	backyard farm #13, cloacal swab # 26	
+GCA_018578665	B_catalogue_candidate	PRJNA514245	Poultry	Gambia	2016	Caecum	YES
+GCA_013618585	B_catalogue_candidate	PRJNA631965	Poultry	Nigeria	2019	backyard farm #30, cloacal swab # 40	
+GCA_001264195	B_catalogue_candidate	PRJNA269579	Other animal	Burkina Faso	2008-10-30	Intestine sample	
+GCA_000447085	B_catalogue_candidate	PRJNA79329	Other animal	Guinea-Bissau		stool sample	
+GCA_002928605	B_catalogue_candidate	PRJNA421654	Other animal	Guinea	2015		
+GCA_010668985	B_catalogue_candidate	PRJNA604701	Other animal	Gambia	2016	stool	
+GCA_025544795	B_catalogue_candidate	PRJNA738374	Other animal	Senegal	2019-08	fecal sample	
+GCA_050051595	B_catalogue_candidate	PRJNA1254764	Other animal	Togo	2022-09	feces	
+GCA_049380105	B_catalogue_candidate	PRJNA473419	Other animal	Ghana	2023-09-08	goat	
+GCA_060225925	B_catalogue_candidate	PRJNA1482785	Other animal	Nigeria	2025-09	Culture-enriched metagenome consisting of Gram-negative bacteria and staphylococci isolated from skin and gut of pigs	
+GCA_002928655	B_catalogue_candidate	PRJNA421654	Other animal	Guinea	2015		
+GCA_011045235	B_catalogue_candidate	PRJNA604701	Other animal	Gambia	2016	stool	
+GCA_025544715	B_catalogue_candidate	PRJNA738374	Other animal	Senegal	2019-08	fecal sample	
+GCA_050051535	B_catalogue_candidate	PRJNA1254764	Other animal	Togo	2022-09	feces	
+GCA_049379945	B_catalogue_candidate	PRJNA473419	Other animal	Ghana	2023-09-05	sheep	
+GCA_050366835	B_catalogue_candidate	PRJNA293225	Other animal	Nigeria	2021-08-06	spleen	
+GCA_002928595	B_catalogue_candidate	PRJNA421654	Other animal	Guinea	2015		
+GCA_010669005	B_catalogue_candidate	PRJNA604701	Other animal	Gambia	2016	stool	
+GCA_025544755	B_catalogue_candidate	PRJNA738374	Other animal	Senegal	2019-08	fecal sample	
+GCA_050051555	B_catalogue_candidate	PRJNA1254764	Other animal	Togo	2022-09	feces	
+GCA_012078575	B_catalogue_candidate	PRJNA230969	Food	Burkina Faso	2008-12-16	beef meat	
+GCA_050054635	B_catalogue_candidate	PRJNA1254764	Food	Togo	2022-09	Nicoise salad	
+GCA_036881085	B_catalogue_candidate	PRJNA1077263	Food	Ghana	2023	beef	
+GCA_966519245	B_catalogue_candidate	PRJEB73590	Food	Nigeria	2021-01-01	Meat	
+GCA_025592035	B_catalogue_candidate	PRJNA514245	Food	Ghana	2016	beef	YES
+GCA_966515205	B_catalogue_candidate	PRJEB73590	Food	Nigeria	2021-12-07	Meat	
+GCA_025589435	B_catalogue_candidate	PRJNA514245	Food	Ghana	2016	Mutton	YES
+GCA_043330315	B_catalogue_candidate	PRJNA514245	Food	Nigeria	2023-06-08	Cat fish (Clarias gariepinus)	YES
+GCA_025595325	B_catalogue_candidate	PRJNA514245	Food	Ghana	2016	beef	YES
+GCA_061051075	B_catalogue_candidate	PRJNA514245	Food	Nigeria	2024-02-02	antelope meat	YES
+GCA_025590505	B_catalogue_candidate	PRJNA514245	Food	Ghana	2016	beef	YES
+GCA_043330195	B_catalogue_candidate	PRJNA514245	Food	Nigeria	2023-06-08	Cat fish (Clarias gariepinus)	YES
+GCA_053564675	B_catalogue_candidate	PRJNA1279628	Food	Ghana	2023	beef	
+GCA_043330275	B_catalogue_candidate	PRJNA514245	Food	Nigeria	2023-06-08	Cat fish (Clarias gariepinus)	YES
+GCA_053561235	B_catalogue_candidate	PRJNA1279628	Food	Ghana	2023	Mutton	
+GCA_043330215	B_catalogue_candidate	PRJNA514245	Food	Nigeria	2023-06-08	Cat fish (Clarias gariepinus)	YES
+GCA_053557775	B_catalogue_candidate	PRJNA1279628	Food	Ghana	2023	beef	
+GCA_043570595	B_catalogue_candidate	PRJNA514245	Food	Nigeria	2021-12-07	Meat	YES

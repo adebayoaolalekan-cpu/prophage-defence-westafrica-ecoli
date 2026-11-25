@@ -1,0 +1,176 @@
+{
+  "seed": 20261126,
+  "stage": 2,
+  "n_total": 96,
+  "n_block_a": 48,
+  "n_block_b": 48,
+  "block_b_cells": [
+    {
+      "cell": "Human|high_contiguity",
+      "available": 27,
+      "requested": 8,
+      "drawn": 8,
+      "shortfall": 0
+    },
+    {
+      "cell": "Human|broad_only",
+      "available": 7,
+      "requested": 4,
+      "drawn": 4,
+      "shortfall": 0
+    },
+    {
+      "cell": "Human|below_broad",
+      "available": 7,
+      "requested": 3,
+      "drawn": 3,
+      "shortfall": 0
+    },
+    {
+      "cell": "Environmental|high_contiguity",
+      "available": 28,
+      "requested": 7,
+      "drawn": 7,
+      "shortfall": 0
+    },
+    {
+      "cell": "Environmental|broad_only",
+      "available": 4,
+      "requested": 3,
+      "drawn": 3,
+      "shortfall": 0
+    },
+    {
+      "cell": "Environmental|below_broad",
+      "available": 4,
+      "requested": 2,
+      "drawn": 2,
+      "shortfall": 0
+    },
+    {
+      "cell": "Poultry|high_contiguity",
+      "available": 22,
+      "requested": 5,
+      "drawn": 5,
+      "shortfall": 0
+    },
+    {
+      "cell": "Poultry|broad_only",
+      "available": 3,
+      "requested": 3,
+      "drawn": 3,
+      "shortfall": 0
+    },
+    {
+      "cell": "Poultry|below_broad",
+      "available": 2,
+      "requested": 1,
+      "drawn": 1,
+      "shortfall": 0
+    },
+    {
+      "cell": "Other animal|high_contiguity",
+      "available": 13,
+      "requested": 4,
+      "drawn": 4,
+      "shortfall": 0
+    },
+    {
+      "cell": "Other animal|broad_only",
+      "available": 0,
+      "requested": 1,
+      "drawn": 0,
+      "shortfall": 1
+    },
+    {
+      "cell": "Other animal|below_broad",
+      "available": 5,
+      "requested": 1,
+      "drawn": 1,
+      "shortfall": 0
+    },
+    {
+      "cell": "Other animal|backfill",
+      "available": 13,
+      "requested": 1,
+      "drawn": 1,
+      "shortfall": 0
+    },
+    {
+      "cell": "Food|high_contiguity",
+      "available": 13,
+      "requested": 4,
+      "drawn": 4,
+      "shortfall": 0
+    },
+    {
+      "cell": "Food|broad_only",
+      "available": 4,
+      "requested": 1,
+      "drawn": 1,
+      "shortfall": 0
+    },
+    {
+      "cell": "Food|below_broad",
+      "available": 1,
+      "requested": 1,
+      "drawn": 1,
+      "shortfall": 0
+    }
+  ],
+  "block_b_distinct_studies": 30,
+  "block_b_study_floor": 8,
+  "block_b_study_floor_met": true,
+  "unresolved_candidate_accessions": 4,
+  "composition": {
+    "by_source": {
+      "Human": 39,
+      "Poultry": 33,
+      "Environmental": 12,
+      "Other animal": 6,
+      "Food": 6
+    },
+    "by_band": {
+      "high_contiguity": 76,
+      "broad_only": 11,
+      "below_broad": 9
+    },
+    "by_country": {
+      "Nigeria": 37,
+      "Ghana": 33,
+      "Cote d'Ivoire": 1,
+      "Togo": 4,
+      "Gambia": 3,
+      "Guinea": 3,
+      "Mali": 2,
+      "Senegal": 3,
+      "Benin": 2,
+      "Niger": 2,
+      "Burkina Faso": 5,
+      "Guinea-Bissau": 1
+    },
+    "by_assembly_level": {
+      "Contig": 82,
+      "Scaffold": 9,
+      "Complete Genome": 4,
+      "Chromosome": 1
+    },
+    "by_source_and_band": {
+      "Human|high_contiguity": 32,
+      "Poultry|high_contiguity": 29,
+      "Human|broad_only": 4,
+      "Human|below_broad": 3,
+      "Environmental|high_contiguity": 7,
+      "Environmental|broad_only": 3,
+      "Environmental|below_broad": 2,
+      "Poultry|broad_only": 3,
+      "Poultry|below_broad": 1,
+      "Other animal|high_contiguity": 4,
+      "Other animal|below_broad": 2,
+      "Food|high_contiguity": 4,
+      "Food|broad_only": 1,
+      "Food|below_broad": 1
+    }
+  },
+  "backfilled": 1
+}

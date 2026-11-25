@@ -1,0 +1,49 @@
+assembly_accession	block	originating_study	ecological_category	country	collection_date	isolation_source	assembly_level	contig_n50	number_of_contigs	total_length	quality_band	stratum
+GCA_015285905	A_inference	PRJNA293225-A	Human	Nigeria	2019-03-02	blood	Contig	273602	89	5491490	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012453525	A_inference	PRJNA293225-A	Human	Nigeria	2018-12-04	stool	Contig	113234	170	5394603	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012616625	A_inference	PRJNA293225-A	Human	Nigeria	2019-02-04	stool	Contig	142788	87	4866920	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012616885	A_inference	PRJNA293225-A	Human	Nigeria	2019-03-14	stool	Contig	113753	137	4774132	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012451995	A_inference	PRJNA293225-A	Human	Nigeria	2019-01-22	stool	Contig	139168	84	4738533	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012402635	A_inference	PRJNA293225-A	Human	Nigeria	2018-12-04	stool	Contig	272929	63	4842296	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012618225	A_inference	PRJNA293225-A	Human	Nigeria	2019-02-20	stool	Contig	145926	162	5154662	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012616675	A_inference	PRJNA293225-A	Human	Nigeria	2019-02-03	stool	Contig	107317	128	4906590	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012451985	A_inference	PRJNA293225-A	Human	Nigeria	2019-01-22	stool	Contig	119835	111	4769335	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012618565	A_inference	PRJNA293225-A	Human	Nigeria	2019-02-18	stool	Contig	127821	189	5566365	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012432655	A_inference	PRJNA293225-A	Human	Nigeria	2019-01-22	stool	Contig	105362	131	4826065	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012616585	A_inference	PRJNA293225-A	Human	Nigeria	2019-02-28	stool	Contig	138299	102	4762796	high_contiguity	PRJNA293225-A|Human|high_contiguity
+GCA_012623425	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-02-18	poultry liver	Contig	185393	82	4675728	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012401845	A_inference	PRJNA293225-A	Poultry	Nigeria	2018-12-03	poultry litter	Contig	127462	87	4719780	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012623025	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-02-04	feces poultry	Contig	193196	90	4850046	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012454085	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-01-04	poultry liver	Contig	186952	88	5031913	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012402385	A_inference	PRJNA293225-A	Poultry	Nigeria	2018-12-04	poultry litter	Contig	247167	62	4705403	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012392015	A_inference	PRJNA293225-A	Poultry	Nigeria	2018-12-03	feces poultry	Contig	126933	91	4672811	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012618525	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-02-20	poultry litter	Contig	148077	105	4938196	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012623345	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-02-18	feces poultry	Contig	207486	88	5005251	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012617345	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-03-05	poultry litter	Contig	119726	115	4647754	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012623085	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-02-04	feces poultry	Contig	133060	153	5132035	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012402665	A_inference	PRJNA293225-A	Poultry	Nigeria	2018-12-04	poultry litter	Contig	192448	79	4926053	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_012616565	A_inference	PRJNA293225-A	Poultry	Nigeria	2019-02-04	feces poultry	Contig	207265	132	5178505	high_contiguity	PRJNA293225-A|Poultry|high_contiguity
+GCA_032142855	A_inference	PRJNA1019343	Human	Ghana	2022	Caecal swabs	Contig	209597	116	4988956	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143515	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	100151	150	4825710	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143735	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	198217	109	5021538	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143475	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	160409	134	5038842	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143395	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	166581	135	5041070	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143555	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	106217	175	5091652	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143595	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	224697	117	5022639	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143535	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	180034	99	4875172	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143755	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	176451	110	5038881	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143275	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	177288	71	4693972	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143415	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	149764	99	4576358	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143795	A_inference	PRJNA1019343	Human	Ghana	2022	Clinical sources	Contig	196560	167	5336375	high_contiguity	PRJNA1019343|Human|high_contiguity
+GCA_032143195	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	139227	138	4621730	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143135	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	125690	145	4645302	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143635	A_inference	PRJNA1019343	Poultry	Ghana	2022	Caecal swabs	Contig	154496	135	4788463	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032142955	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	283619	121	5013474	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143715	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	162040	111	4733434	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032142995	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	193197	97	4875680	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032142975	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	147302	105	4721360	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143075	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	103127	122	4595486	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143115	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	110250	135	4555317	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143015	A_inference	PRJNA1019343	Poultry	Ghana	2022	Caecal swabs	Contig	254338	99	4799005	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143815	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	196323	92	4877510	high_contiguity	PRJNA1019343|Poultry|high_contiguity
+GCA_032143615	A_inference	PRJNA1019343	Poultry	Ghana	2021	Caecal swabs	Contig	284039	91	4919530	high_contiguity	PRJNA1019343|Poultry|high_contiguity
