@@ -1,0 +1,19 @@
+# PIDE is not in bioconda as of the protocol's data cut-off. This environment
+# carries the dependencies a protein language model predictor needs; the tool
+# itself is installed from its own repository by the command recorded in
+# config.yaml under pide.command.
+#
+# If PIDE cannot be installed on the production host, set
+# independent_predictor: phispy in config.yaml. That substitution is already
+# declared in Section 11.0 of the protocol and needs no amendment.
+channels: [conda-forge, bioconda, pytorch]
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch=2.3.1
+  - numpy
+  - pandas
+  - biopython
+  - scikit-learn
+  - hmmer=3.4
+  - prodigal=2.6.3

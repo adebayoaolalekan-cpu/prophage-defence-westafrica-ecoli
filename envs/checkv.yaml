@@ -1,0 +1,7 @@
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.10
+  - checkv=1.0.3
+  - diamond=2.1.9
+  - hmmer=3.4
+  - prodigal-gv=2.11.0

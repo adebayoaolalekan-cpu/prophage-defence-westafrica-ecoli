@@ -1,0 +1,6 @@
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - defense-finder=2.0.0
+  - macsyfinder=2.1.4
+  - hmmer=3.4

@@ -1,0 +1,9 @@
+channels: [conda-forge, bioconda]
+dependencies:
+  - crisprcasfinder=4.3.2
+  - macsyfinder=2.1.4
+  - prodigal=2.6.3
+  - hmmer=3.4
+  - vmatch=2.3.0
+  - emboss=6.6.0
+  - muscle=3.8.1551

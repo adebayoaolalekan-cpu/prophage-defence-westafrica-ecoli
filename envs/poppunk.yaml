@@ -1,0 +1,5 @@
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.10
+  - poppunk=2.7.5
+  - mash=2.3

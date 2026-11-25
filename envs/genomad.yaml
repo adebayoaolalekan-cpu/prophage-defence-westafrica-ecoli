@@ -1,0 +1,6 @@
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - genomad=1.11.0
+  - mmseqs2=15.6f452
+  - aragorn=1.2.41
