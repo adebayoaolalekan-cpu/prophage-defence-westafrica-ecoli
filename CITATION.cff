@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite both the software and the preregistration it belongs to."
+title: "Prophage and anti-phage defence genomic pilot workflow"
+abstract: >-
+  Snakemake workflow and stratified genome selection for the calibration pilot
+  of a comparative genomics study of prophages, prophage-encoded virulence
+  determinants and anti-phage defence systems in West African Escherichia coli.
+  Runs geNomad, an independent prophage predictor, CheckV at two flank lengths,
+  DefenseFinder, CRISPRCasFinder, Bakta, CheckM2, seqkit and PopPUNK at
+  parameters fixed in the registered protocol, and returns the observed
+  prophage count distribution and negative binomial dispersion.
+type: software
+authors:
+  - family-names: Olalekan
+    given-names: Abass Adebayo
+    affiliation: "Lagos State University of Education, Lagos, Nigeria"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-25"
+keywords:
+  - prophage
+  - anti-phage defence systems
+  - Escherichia coli
+  - West Africa
+  - comparative genomics
+  - Snakemake
+references:
+  - type: generic
+    title: "Prophages, Prophage-Encoded Virulence Genes and Anti-Phage Defence Systems in West African Escherichia coli"
+    authors:
+      - family-names: Olalekan
+        given-names: Abass Adebayo
+    doi: 10.17605/OSF.IO/FXMEQ
+    year: 2026
+    notes: "Preregistration on OSF. This workflow implements its Section 10.2 pilot."

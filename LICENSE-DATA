@@ -1,0 +1,24 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+The data files in this archive are dedicated to the public domain under CC0 1.0.
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Files covered by CC0 rather than by the MIT License in LICENSE:
+
+  config/pilot_manifest.tsv
+  config/samples.tsv
+  config/pilot_block_a.tsv
+  config/pilot_block_b_candidates.tsv
+  config/pilot_selection_stage1.json
+  config/pilot_selection_summary.json
+  config/CHECKSUMS.txt
+  resources/candidate_assembly_stats.tsv
+  resources/ena_westafrica_ecoli_metadata.tsv
+  resources/qualifying_studies_assembly_qc.tsv
+
+These are records derived from the European Nucleotide Archive and from NCBI
+Datasets, both of which place their content in the public domain. Dedicating
+the derived files to the public domain keeps them as reusable as the archives
+they came from, and avoids attaching a licence to facts that nobody owns.
+
+Everything else in this archive is software and is covered by the MIT License.

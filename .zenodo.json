@@ -1,0 +1,51 @@
+{
+  "title": "Genomic pilot workflow and selected genome manifest for a preregistered study of prophages and anti-phage defence systems in West African Escherichia coli",
+  "upload_type": "software",
+  "description": "<p>Workflow, genome selection and registered protocol for the calibration pilot of a comparative genomics study of prophages, prophage-encoded virulence determinants and anti-phage defence systems in West African <em>Escherichia coli</em>.</p><p>This deposit accompanies the preregistration at <a href=\"https://doi.org/10.17605/OSF.IO/FXMEQ\">10.17605/OSF.IO/FXMEQ</a> and is cited by it. The three files were intended as attachments to that registration. They could not be attached before submission, and an accepted OSF registration is frozen, so they are deposited here instead. Their SHA-256 checksums are recorded inside the protocol document, so the deposit verifies against the registered design.</p><p><strong>Contents.</strong> prophage_pilot.tar.gz holds the Snakemake workflow, the two-stage stratified selection script, conda environment specifications and an integration test that drives the prediction to boundary-refinement chain against a synthetic genome with proviruses at known coordinates. The workflow runs geNomad, an independent prophage predictor, CheckV at both a 10 kb and a 5 kb flank, DefenseFinder, CRISPRCasFinder, Bakta, CheckM2, seqkit and PopPUNK at parameters fixed in the protocol, resolving to 1,356 jobs across the 96 pilot genomes. pilot_manifest.tsv lists those 96 genomes with block, stratum, originating study, ecological source, country and quality band. The protocol document carries the full design, the eligibility rule, the provenance adjudication and the dispersion decision table.</p><p><strong>Ordering.</strong> This deposit is made after the registration and before the pilot runs. No prophage has been predicted, no defence system called and no genome sequence downloaded at the time of deposit.</p><p><strong>Licensing.</strong> Software under MIT. Selection tables and retrieval metadata under CC0, since they derive from ENA and NCBI records in the public domain. See LICENSE and LICENSE-DATA.</p>",
+  "creators": [
+    {
+      "name": "Olalekan, Abass Adebayo",
+      "affiliation": "Lagos State University of Education, Lagos, Nigeria"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "prophage",
+    "anti-phage defence systems",
+    "Escherichia coli",
+    "West Africa",
+    "comparative genomics",
+    "Snakemake",
+    "geNomad",
+    "CheckV",
+    "DefenseFinder",
+    "CRISPRCasFinder",
+    "PopPUNK",
+    "preregistration",
+    "secondary data analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/FXMEQ",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://www.ebi.ac.uk/ena/portal/api/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://api.ncbi.nlm.nih.gov/datasets/v2alpha/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "notes": "SHA-256 checksums of the deposited files. prophage_pilot.tar.gz: 4e4db7497479b3c3d246cbc7a3d3d685ece2150f9cf49ae39f28a9c8bbd13852. pilot_manifest.tsv: 818e812117b7b29f80fcfeb77efa5c0a6b11c4ed94087f68a3dd05f0bf3f0683. Prophage_Defence_WestAfrica_Ecoli_Protocol_v12.docx: d515ccb999ee8dfdb6c45fb3e17b1b2c8b6eb286e385c93f28057ad3e62828a8. The first two are also recorded in Section 12.0 of the deposited protocol."
+}
