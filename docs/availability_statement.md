@@ -1,7 +1,12 @@
 # Declarations for BMC Genomics
 
-Zenodo mints the DOI at publication, so the three placeholders marked
-`[ZENODO DOI]` are the only thing to fill in. Everything else is final.
+Final. Both DOIs are live and filled in below.
+
+Preregistration: https://doi.org/10.17605/OSF.IO/FXMEQ
+Software and data deposit: https://doi.org/10.5281/zenodo.24540847
+Repository: https://github.com/adebayoaolalekan-cpu/prophage-defence-westafrica-ecoli
+
+Funding and author contributions are the only fields left to complete.
 
 ---
 
@@ -25,7 +30,7 @@ returned.
 Individual records are identified by INSDC assembly accession. The complete
 accession list, with the ecological source, country, originating study and
 quality band assigned to each, is deposited at Zenodo under
-https://doi.org/[ZENODO DOI].
+https://doi.org/10.5281/zenodo.24540847.
 
 The study protocol, including the prespecified eligibility rule, the provenance
 adjudication and the analysis decision rules, was registered before any genomic
@@ -36,11 +41,12 @@ https://doi.org/10.17605/OSF.IO/FXMEQ.
 
 Project name: Prophage and anti-phage defence genomic pilot workflow
 
-Project home page: https://doi.org/[ZENODO DOI]
+Project home page:
+https://github.com/adebayoaolalekan-cpu/prophage-defence-westafrica-ecoli
 
-Archived version: https://doi.org/[ZENODO DOI]
-(SHA-256 of the archive 4e4db7497479b3c3d246cbc7a3d3d685ece2150f9cf49ae39f28a9c8bbd13852,
-also recorded in the registered protocol)
+Archived version: release v1.0.0, commit
+40586c1fc13e21bd54a5efb8f1adc422928b056a, archived at
+https://doi.org/10.5281/zenodo.24540847
 
 Operating system: Linux. Not tested on macOS or Windows.
 
@@ -92,7 +98,7 @@ All data are publicly available. Genome assemblies and metadata were retrieved
 from the European Nucleotide Archive Portal API and reconciled against NCBI
 Datasets and Entrez E-utilities on 25 November 2026. The full accession list,
 the analysis workflow and the study protocol are deposited at Zenodo
-(https://doi.org/[ZENODO DOI]) under the MIT License for software and CC0 for
+(https://doi.org/10.5281/zenodo.24540847) under the MIT License for software and CC0 for
 data. The protocol was registered before any genomic analysis at
 https://doi.org/10.17605/OSF.IO/FXMEQ.
 
@@ -101,7 +107,9 @@ https://doi.org/10.17605/OSF.IO/FXMEQ.
 # A note on two things reviewers may ask
 
 The registration DOI and the Zenodo DOI point at the same study and should both
-appear. The registration fixes the design and the decision rules. The Zenodo
+appear. Cite the version DOI 10.5281/zenodo.24540847 rather than the concept DOI
+10.5281/zenodo.24540846, because the version DOI resolves to the exact code that
+produced the results while the concept DOI follows later releases. The registration fixes the design and the decision rules. The Zenodo
 deposit holds the artefacts those rules operate on, and its checksums are
 recorded inside the registered protocol, so a reader can confirm that the
 deposited genome set is the one the registration describes.
