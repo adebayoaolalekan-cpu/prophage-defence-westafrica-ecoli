@@ -1,0 +1,74 @@
+# Slurm profile for the genomic pilot.
+#
+#   snakemake --profile profiles/slurm --configfile config/config.yaml
+#
+# The Snakefile declares threads but deliberately no memory or runtime, because
+# those are site-specific and hard-coding them would make the workflow wrong
+# everywhere except one cluster. They are set here instead, so the published
+# workflow stays portable and each site edits only this file.
+#
+# Needs snakemake-executor-plugin-slurm (Snakemake 8) or --cluster for 7.
+
+executor: slurm
+jobs: 40
+latency-wait: 90
+rerun-incomplete: true
+keep-going: true
+printshellcmds: true
+use-conda: true
+conda-frontend: mamba
+
+default-resources:
+  slurm_partition: "normal"
+  mem_mb: 8000
+  runtime: 120
+  tmpdir: "/tmp"
+
+# Memory and wall time per rule. The figures below are starting points sized
+# from the tools' own documentation, not from observation. The pilot exists
+# partly to replace them: results/reports/resource_per_tool.tsv reports peak
+# memory and wall time per tool per genome, and those observed figures should
+# be substituted here before the full collection is processed.
+set-resources:
+  download_genome:
+    mem_mb: 2000
+    runtime: 30
+  seqkit_stats:
+    mem_mb: 2000
+    runtime: 10
+  checkm2:
+    mem_mb: 48000
+    runtime: 480
+  bakta:
+    mem_mb: 32000
+    runtime: 180
+  genomad:
+    mem_mb: 32000
+    runtime: 240
+  pide:
+    mem_mb: 32000
+    runtime: 240
+    slurm_extra: "'--gres=gpu:1'"
+  phispy:
+    mem_mb: 8000
+    runtime: 60
+  checkv_contamination:
+    mem_mb: 16000
+    runtime: 120
+  defensefinder:
+    mem_mb: 16000
+    runtime: 120
+  crisprcasfinder:
+    mem_mb: 8000
+    runtime: 90
+  poppunk:
+    mem_mb: 64000
+    runtime: 480
+
+# Threads come from the THREADS block in config/config.yaml. Override here only
+# where a site's node shape demands it.
+set-threads:
+  checkm2: 16
+  bakta: 8
+  genomad: 8
+  poppunk: 16
